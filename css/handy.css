@@ -1,0 +1,29 @@
+/*handy*/
+body {
+  /*background-color: #C1CAD6;*/
+  background: url(../img/city.jpg);
+}
+
+header {
+  height: 150px;
+  background: url(../img/city.jpg);
+
+  font-family: impact, arial, sans-serif;
+
+
+  border: 5px solid black;
+  border-radius: 5px;
+  padding: 8px 8px;
+
+}
+
+main, contact {
+  font-family: serif;
+  width: 50%
+
+}
+
+.widget {
+  /*float: right;*/
+
+}
