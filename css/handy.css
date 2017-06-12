@@ -1,18 +1,20 @@
 /*handy*/
 body {
   /*background-color: #C1CAD6;*/
-  background: url(../img/city.jpg);
+  background: url(../img/white1.jpg);
 }
 
 header {
   height: 150px;
-  /*background: url(../img/city.jpg);*/
+  background: url(../img/metalic.jpg);
+  /*background-color: yellow;*/
   text-align: center;
   font-family: impact, arial, sans-serif;
-  font-size: 30px;
+  font-size: 125px;
   border: 5px solid black;
   border-radius: 5px;
   padding: 8px 8px;
+  text-shadow: 2px 2px white;
 
 }
 
