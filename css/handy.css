@@ -6,16 +6,22 @@ body {
 
 header {
   height: 150px;
-  background: url(../img/city.jpg);
-
+  /*background: url(../img/city.jpg);*/
+  text-align: center;
   font-family: impact, arial, sans-serif;
-
-
+  font-size: 30px;
   border: 5px solid black;
   border-radius: 5px;
   padding: 8px 8px;
 
 }
+
+main h1 {
+  font-family: sans-serif;
+  font-weight: lighter;
+}
+
+
 
 main, contact {
   font-family: serif;
@@ -26,4 +32,8 @@ main, contact {
 .widget {
   /*float: right;*/
 
+}
+
+p {
+  padding: 0;
 }
