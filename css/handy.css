@@ -23,6 +23,12 @@ main h1 {
   font-weight: lighter;
 }
 
+section {
+  background-color: #f27802;
+  border: 2px solid black;
+  padding: 8px 8px;
+}
+
 
 
 main, contact {
