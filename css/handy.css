@@ -26,6 +26,8 @@ main h1 {
 section {
   background-color: #f27802;
   border: 2px solid black;
+  border-radius: 5px;
+
   padding: 8px 8px;
 }
 
@@ -44,4 +46,20 @@ main, contact {
 
 p {
   padding: 0;
+}
+
+/*iPad/tablet*/
+@media (min-width: 768px) {
+ header {
+   font-size: 87px;
+   height: 105px;
+ }
+}
+
+/*Cell Phones*/
+@media screen and (max-width: 899px) {
+    header {
+
+        font-size: 65px;
+    }
 }
